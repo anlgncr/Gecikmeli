@@ -1,0 +1,23 @@
+#######################################
+# Syntax Coloring Map For Tween
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Gecikmeli	KEYWORD1
+Gecikme	KEYWORD1
+tekrar_sayisi	KEYWORD1
+toplam_zaman	KEYWORD1
+bas_zaman	KEYWORD1
+cagri	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+ekle		KEYWORD2
+sil		KEYWORD2
+index		KEYWORD2
+guncelle	KEYWORD2
