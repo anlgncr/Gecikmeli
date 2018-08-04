@@ -24,7 +24,7 @@ veya
 
 ornek_yapi.cagri = foksiyon_adı;
 
-ornek_yapi.toplam_sure = toplma_süre;
+ornek_yapi.toplam_sure = toplam_süre;
 
 ornek_yapi.tekrar_sayisi = tekrar_sayısı;
 
@@ -47,5 +47,7 @@ Daha sonra bu gecikme sınıfının loop fonksiyonu içerisinde sürekli güncel
 
 
 void loop(){
+
   gecikme.guncelle();
+  
 }
