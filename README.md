@@ -1,10 +1,12 @@
 # Gecikmeli
 Fonksiyon çağrılarını erteleme kütüphanesi.
+
 Kütüpaneyi kullanabilmek için öncelikle sınıf tanımlası yapılır.
 
 Gecikmeli gecikme(5); 
 
 Buradaki 5 sayısı aynı anda en fazla 5 adet gecikme kullanacağımızı belirtir.
+
 Daha sonra struct Gecikme türünde bir yapı tanımlanmalıdır.
 
 Gecikmeli::Gecikme ornek_yapi;
