@@ -1,13 +1,13 @@
 # Gecikmeli
 Fonksiyon çağrılarını erteleme kütüphanesi.
 
-Kütüpaneyi kullanabilmek için öncelikle sınıf tanımlası yapılır.
+Kütüphaneyi kullanabilmek için öncelikle sınıf tanımlası yapılır.
 
 
 Gecikmeli gecikme(5); 
 
 
-Buradaki 5 sayısı aynı anda en fazla 5 adet gecikme kullanacağımızı belirtir.
+Buradaki 5 sayısı aynı anda en fazla 5 adet gecikme kullanacağımızı belirtir. İstenen değer kadar girilebilir tabi Arduinonun 2kb lık ram boyutunu geçmeyecek şekilde :) (Not. Göstergeler 4 byte yer kapladığı için her bir tanımlama 4 byte'tır)
 
 Daha sonra struct Gecikme türünde bir yapı tanımlanmalıdır.
 
