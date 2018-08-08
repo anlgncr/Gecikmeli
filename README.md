@@ -33,7 +33,7 @@ Tekrar sayısı 0 olursa tekrar etmez
 
 Tekrar sayısı 0 dan fazla olursa o sayı kadar tekrar eder
 
-Tekrar sayısı -1 olursa sonsuza sürekli tekrar eder
+Tekrar sayısı -1 olursa sürekli tekrar eder
 
 
 Oluşturulan ornek_yapı nın çalışması havuza eklenmelidir.
